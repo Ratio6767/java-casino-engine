@@ -17,7 +17,6 @@ This project focuses on **Object-Oriented Programming (OOP)** concepts:
 How to Run
 1. Clone the repository:
    `git clone https://github.com/Ratio6767/java-casino-engine.git`
-2. Compile the files:
-   `javac src/*.java`
+2. download the ZipFile
 3. Run the Main class:
    `java src/Main`
